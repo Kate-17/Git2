@@ -21,7 +21,7 @@ public class Main {
          return a-b;
     }
     public static int mult(int a, int b) {
-         return a*2;
+         return a*b;
     }
 
 }
